@@ -1,0 +1,26 @@
+
+* {border:solid}
+h1 {color:palegreen}
+
+.Header{
+background-color: red ;
+display:flex;
+justify-content: space-between;
+}
+
+.ZEUS{
+ display:flex;
+justify-content: flex-end;
+}
+
+.Games{
+display:flex;
+justify-content: space-evenly;
+
+}
+
+h2 {color:rgb(101, 130, 216);
+text-align:center} 
+
+
+
